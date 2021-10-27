@@ -1,0 +1,7 @@
+version: '3'
+services:
+  mahesh:
+    build: .
+    volumes: 
+      - /home/mahesh/git/mahesh:/home/mahesh
+    command: tail -F anything
