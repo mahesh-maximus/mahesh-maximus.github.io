@@ -1,6 +1,6 @@
 # MAHESH DHARMASENA
 
-## Software Architect 
+## Loves Software engineering and huge a nerd of Internals
 
-Hello! I'm currently working as a software engineer at [Virtusa](https://www.virtusa.com)
+Hello! I'm currently working as a Software Architect at [Virtusa](https://www.virtusa.com)
 
