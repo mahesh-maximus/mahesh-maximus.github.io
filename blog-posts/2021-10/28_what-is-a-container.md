@@ -9,4 +9,4 @@ This decoupling of application packaging mechanism from the environment on which
 At the core of container technology are three key concepts:
 1. cgroups
 2. Namespaces
-3 .Union filesystems
+3. Union filesystems
