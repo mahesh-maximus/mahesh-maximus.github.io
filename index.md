@@ -1,6 +1,4 @@
-Syntax highlighted code block
-
-# Header 1
+# Index
 
 1. [About](https://mahesh-maximus.github.io/mahesh/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
