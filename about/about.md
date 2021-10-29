@@ -1,6 +1,6 @@
 # MAHESH DHARMASENA
 
-## Loves :heart: software engineering and huge a nerd of Internals :mechanic:
+## Loves ❤️ software engineering and huge a nerd of Internals 🧑‍🔧
 
 Hello! I'm currently working as a Software Architect at [Virtusa](https://www.virtusa.com). I work on GitHub projects as a hoppy.
 
