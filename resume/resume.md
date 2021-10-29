@@ -1,1 +1,5 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+Category | Description | Period
+-------- | ----------- | ------
+Education | MSc in Information technology from Cardiff Metropolitan University | 2014
+Work Experience | Work at Virtusa 2008 to precent
+Open Source Contributions | 
