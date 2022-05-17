@@ -1,4 +1,4 @@
-# Pytho Infinity
+# Python Infinity
 
 ## Problem
 These days I'm working on a **Hobby** project called [Vulcan](https://github.com/mahesh-maximus/vulcan). And it requires Rust, JavaScript and Python. Since Vulcan uses [Firecracker](https://github.com/firecracker-microvm/firecracker) code as a git sub-module, I am having a dev container approach of Vulcan just like Firecracker. The complete build and running the app take place inside a dev container. So I wanted to behave Python interpreter just like Webpack development server which detects file changes and reload the web content. But I couldn’t find any tool or library for Python, that performs the same.
