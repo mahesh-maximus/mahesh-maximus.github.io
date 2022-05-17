@@ -16,7 +16,4 @@
 <a href="https://github.com/mahesh-maximus/" style="float: right;">   
   <img src="https://unpkg.com/simple-icons@5.20.0/icons/instagram.svg" alt="drawing" width="42"/> 
 </a>
-<a href="http://maheshdharmasena.blogspot.com/" style="float: right;">   
-  <img src="https://unpkg.com/simple-icons@5.20.0/icons/blogger.svg" alt="drawing" width="42"/> 
-</a>
 
