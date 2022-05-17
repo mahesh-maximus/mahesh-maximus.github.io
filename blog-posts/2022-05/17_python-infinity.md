@@ -1,8 +1,7 @@
 # Pytho Infinity
 
 ## Problem
-These days I'm working on a **Hobby** project called [Vulcan](https://github.com/mahesh-maximus/vulcan). And it requires Rust, JavaScript and Python. Since Vulcan uses [Firecracker](https://github.com/firecracker-microvm/firecracker) code as a git sub-module, I am having a dev container approach of Vulcan just like Firecracker. The complete build and running the app take place inside a dev container. So I wanted to behave Python interpreter just like Webpack development server which detects file changes and reload the web content. But I couldn’t find any tool or library for Python, that performs the same. ![image](https://user-images.githubusercontent.com/6337584/168842088-ec02d95e-1551-406f-a0c7-94ba8ddd74d8.png)
-
+These days I'm working on a **Hobby** project called [Vulcan](https://github.com/mahesh-maximus/vulcan). And it requires Rust, JavaScript and Python. Since Vulcan uses [Firecracker](https://github.com/firecracker-microvm/firecracker) code as a git sub-module, I am having a dev container approach of Vulcan just like Firecracker. The complete build and running the app take place inside a dev container. So I wanted to behave Python interpreter just like Webpack development server which detects file changes and reload the web content. But I couldn’t find any tool or library for Python, that performs the same.
 
 ## Solution
 So I developed my own.
