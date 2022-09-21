@@ -1,6 +1,9 @@
-# Index
+# Index of MAHESH MAXIMUS
 
 1. [About](https://mahesh-maximus.github.io/mahesh/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
 3. [Resume](https://mahesh-maximus.github.io/mahesh/resume/resume.html)
 
+## Things keeps me in Software Engineering
+* [Rust for Linux](https://github.com/Rust-for-Linux/linux)
+* [Linus Torvalds: Rust may make it into the next Linux kernel after all](https://www.zdnet.com/article/linus-torvalds-rust-may-make-it-into-the-next-linux-kernel-after-all/)
