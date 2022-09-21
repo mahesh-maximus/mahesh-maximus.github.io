@@ -7,4 +7,4 @@ Blog posts | Published date
 [Python Infinity](https://mahesh-maximus.github.io/mahesh/blog-posts/2022-05/17_python-infinity.html)| 17-05-2022
 [The True Cost of Containing: A gVisor Case Study]()|2022-5-22
 [Firecracker: Lightweight Virtualization for Serverless Applications]()|2022-5-28
-[Should your team adapt Rust programming language?](https://mahesh-maximus.github.io/mahesh/blog-posts/2022-09/21_Should-your-team-adapt-Rust-programming-language.md)|2022-09-21
+[Should your team adapt Rust programming language?](https://mahesh-maximus.github.io/mahesh/blog-posts/2022-09/21_Should-your-team-adapt-Rust-programming-language.html)|2022-09-21
