@@ -1,4 +1,4 @@
-# Should your team adapt Rust programming language?
+# Should your team adapt RUST programming language?
 
 # What is Rust
 
