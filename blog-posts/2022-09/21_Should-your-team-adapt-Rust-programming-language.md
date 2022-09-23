@@ -38,5 +38,13 @@ ___It's not just about the language___
 * Diverse, welcoming, and open community to discuss new use cases. 
 
 ## Why did Android adopt Rust so quickly?
-But just being an amazing language with grad tooling and fantastic community isn't really sufficient for most businesses to make the big investment of supporting a new language. Beyond the cost of adding the tools to the system, there is training, there is hiring, there's interop with all of your existing code, just to name a few. So what's the business case?![Uploading image.png…]()
+But just being an amazing language with grad tooling and fantastic community isn't really sufficient for most businesses to make the big investment of supporting a new language. Beyond the cost of adding the tools to the system, there is training, there is hiring, there's interop with all of your existing code, just to name a few. So what's the business case?
+
+At least for Android, the case is pretty easy. Its's Security. As an operating system delivering code over 3 billion devices, the cost to our users, partners and Google itself is really high for each and every security issue. And of those security issues, the vast majority of them are memory safety bugs. Now we've invested heavily in hardware features, improved our compilers, built static analyzers and dynamic sanitization tools to try and address this issues. But the exploits continue to be found faster than we can keep up with then via tooling. So for us, and especially in new code that we're writing, Rust is absolutely the smartest choice. It protects us from the entire class of memory safety bugs right from the start, and already paid back our investment in it on Android. Of course, it doesn't hurt that the teams who have adopted Rust really enjoy working with it.
+
+* Vast majority of all security issues on Android are memory safety bugs
+* A decade of work on analyzers, hardware protection, and language evolution for C/C++ are not closing the gap
+* Rust protects against these issues from the start
+
+
 
