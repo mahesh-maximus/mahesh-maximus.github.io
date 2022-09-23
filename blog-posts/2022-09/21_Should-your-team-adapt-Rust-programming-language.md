@@ -23,3 +23,18 @@ Most of the mobile devices rely on taking advantage on parallelism while dealing
   * Multiple devices interacting with each other have complex interaction patterns
 * ___Rust is the only language that gives us both performance and safety___
 
+Of course, it's not just about the language itself. The code we write is often a small portion of the overall deliverable. In a system like Android over three quarters of the source code, 7t million of the 100 million line of code are third party ecosystem libraries that we rely on. And Rust makes it easy to integrate and update those dependencies, that something we haven't really had with C or Java. There is also a really consistent story around the code style and warnings. Rust format provides code style defaults that you'll see across the entire ecosystem, and Clippy enforces appropriate use of coding patterns. That means in every Rust project you run into, you'll be able to understand the code. There aren't the sort of local dialects that you get with C++, where every company and every project has chosen some different subset or stylistic way of using the language. Beyond the tooling, though, Rust project was one of the first language communities to adopt and enforce not only a code of conduct, but norms around being welcoming to developers not matter what their prior background is or what industry they're working in. This means that for new adapters of the language, it's easy to get early feedback and guidance on your journey.
+
+## Productivity
+___It's not just about the language___
+
+* Modular dependencies with a uniform build and test system
+  * Easy to integrate
+  * Easy to update
+
+* Widely adapted consistent tooling for styling & formatting
+  * Rustfmt, clippy , etc.
+
+* Diverse, welcoming, and open community to discuss new use cases. 
+
+
