@@ -8,8 +8,8 @@ Work Experience | Work at Virtusa as a Software Architect | 2008 to Present
 _ | P&O Ferries | June-2008 to Aug-2008
 _ | Thomson PDR | Aug-2008 to Dec-2008
 _ | IBM Socarer | Jan-2009 to Jun-2009
-_ | McDonalds Dilbert | 2009
-_ | McDonalds DMT 1.0 | 2009
+_ | McDonalds Dilbert | June-2009 to Jan-2010
+_ | McDonalds DMT 1.0 | Jan-2010 to Aug-2010 
 _ | McDonalds Support | 2009
 _ | McDonalds DMT 2.0 | 2010
 _ | McDonalds RiDM 5.0 | 2010
