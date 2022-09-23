@@ -3,6 +3,7 @@
 1. [About](https://mahesh-maximus.github.io/mahesh/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
 3. [Resume](https://mahesh-maximus.github.io/mahesh/resume/resume.html)
+4. [Publications]
 
 ## Things keeps me in Software Engineering
 * [Rust for Linux](https://github.com/Rust-for-Linux/linux)
