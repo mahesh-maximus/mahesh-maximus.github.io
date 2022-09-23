@@ -14,3 +14,15 @@ Most of the mobile devices rely on taking advantage on parallelism while dealing
 
 ## Performance & Control with Reliability & Safety
 #### These features usually do not mix
+
+* In most languages you either have
+ * Compile-time or run-time prevention of threading and memory corruption issues
+ * Full performance
+
+* Increasingly, devices require parallelism & concurrency
+ * Mobile phones have many CPU cores
+ * Multiple devices interacting with each other have complex interaction patterns
+
+* Rust is the only language that gives us both performance and safety
+
+
