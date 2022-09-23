@@ -25,4 +25,19 @@ Most of the mobile devices rely on taking advantage on parallelism while dealing
 
 * Rust is the only language that gives us both performance and safety
 
+* Fruit
+  * Apple
+  * Orange
+  * Banana
+* Dairy
+  * Milk
+  * Cheese
+
+* In most languages you either have
+  * Compile-time or run-time prevention of threading and memory corruption issues
+  * Full performance
+* Increasingly, devices require parallelism & concurrency
+  * Mobile phones have many CPU cores
+  * Multiple devices interacting with each other have complex interaction patterns
+* Rust is the only language that gives us both performance and safety
 
