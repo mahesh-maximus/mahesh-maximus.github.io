@@ -1,6 +1,6 @@
 # MAHESH MAXIMUS
 
-## Loves ❤️ software engineering and huge a nerd of Internals 🧑‍🔧
+## Loves ❤️ software engineering and huge a nerd of Internals 🔧
 
 ![](https://github.com/mahesh-maximus/mahesh/blob/main/about/0475CC39-603B-4B26-99CE-4A9122E53B21.jpeg "")
 
