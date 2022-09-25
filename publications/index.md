@@ -2,3 +2,10 @@
 
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://assets.amazon.science/ac/1d/eb50c4064c538c8ac440ce6a1d91/dynamo-amazons-highly-available-key-value-store.pdf)
  - [Amazon’s DynamoDB — 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
