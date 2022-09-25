@@ -2,7 +2,7 @@
 
 ## Loves ❤️ software engineering and huge a nerd of Internals 🔧
 
-![Mahesh](/mahesh/blob/main/about/0475CC39-603B-4B26-99CE-4A9122E53B21.jpeg "Mahesh")
+![Mahesh](/main/about/0475CC39-603B-4B26-99CE-4A9122E53B21.jpeg "Mahesh")
 
 Hello! I’m Mahesh. and employed as a software developer. I mostly do System software work.  I’m employed as a software developer.I'm currently working as a Software Architect at [Virtusa](https://www.virtusa.com). I work on GitHub projects as a hobby.
 
