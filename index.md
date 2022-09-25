@@ -3,7 +3,7 @@
 1. [About Me ...](https://mahesh-maximus.github.io/mahesh/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
 3. [Resume](https://mahesh-maximus.github.io/mahesh/resume/resume.html)
-4. [Publications](https://mahesh-maximus.github.io/mahesh/publications/index.html)
+4. [Publications] NOT by me!, so dear and near to my heart (https://mahesh-maximus.github.io/mahesh/publications/index.html)
 5. [Lief other than Gadgets]()
 
 ## Things keeps me in Software Engineering
