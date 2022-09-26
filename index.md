@@ -3,7 +3,7 @@
 1. [About Me ...](https://mahesh-maximus.github.io/mahesh/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
 3. [Resume](https://mahesh-maximus.github.io/mahesh/resume/resume.html)
-4. [Publications](https://mahesh-maximus.github.io/mahesh/publications/index.html) NOT by me!, but so dear and near to my heart ❤️
+4. [Publications](https://mahesh-maximus.github.io/mahesh/publications/index.html) NOT by me!, but so near and dear to my heart ❤️
 5. [Lief other than Gadgets]()
 
 ## Inspirations and Motivations
