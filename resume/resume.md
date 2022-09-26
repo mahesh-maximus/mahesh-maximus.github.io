@@ -22,7 +22,7 @@ Work Experience | Work at Virtusa as a Software Architect | 2008 to Present
 . | McDonalds DMT 1.0 | Jan-2010 to Aug-2010
 . | McDonalds Dilbert | June-2009 to Jan-2010
 . | IBM Socarer | Jan-2009 to Jun-2009
-. | **Thomson PDR** Worked on backend search services and frontend search text highlighting | Aug-2008 to Dec-2008
+. | **Thomson PDR** - Worked on backend search services and frontend search text highlighting | Aug-2008 to Dec-2008
 . | **P&O Ferries** - Worked on Java backend Cape Clear web service  | June-2008 to Aug-2008
 
 
