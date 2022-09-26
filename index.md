@@ -7,6 +7,7 @@
 5. [Lief other than Gadgets]()
 
 ## Inspirations and Motivations
+* [**It's actually me** kosalanuwan](https://github.com/kosalanuwan)
 * [**Jon Gjengset** jonhoo](https://github.com/jonhoo)
 
 ## Things keeps me in Software Engineering
