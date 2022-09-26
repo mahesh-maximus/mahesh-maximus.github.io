@@ -4,7 +4,7 @@
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
 3. [Resume](https://mahesh-maximus.github.io/mahesh/resume/resume.html)
 4. [Publications](https://mahesh-maximus.github.io/mahesh/publications/index.html) NOT by me!, but so near and dear to my heart ❤️
-5. [Lief other than Gadgets]()
+5. [Life other than Gadgets]()
 
 ## Inspirations and Motivations
 * [**It's actually me** #kosalanuwan](https://github.com/kosalanuwan) Shows what it is possible with a GitHub account.
