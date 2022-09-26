@@ -7,9 +7,9 @@
 5. [Lief other than Gadgets]()
 
 ## Inspirations and Motivations
-* [**It's actually me** # kosalanuwan](https://github.com/kosalanuwan)
-* [**Jon Gjengset** # jonhoo](https://github.com/jonhoo)
-* [**Steven Rostedt** # rostedt](https://github.com/rostedt)
+* [**It's actually me** #kosalanuwan](https://github.com/kosalanuwan)
+* [**Jon Gjengset** #jonhoo](https://github.com/jonhoo)
+* [**Steven Rostedt** #rostedt](https://github.com/rostedt)
 
 ## Things keeps me in Software Engineering
 * [Rust for Linux](https://github.com/Rust-for-Linux/linux)
