@@ -23,7 +23,7 @@ Work Experience | Work at Virtusa as a Software Architect | 2008 to Present
 . | McDonalds Dilbert | June-2009 to Jan-2010
 . | IBM Socarer | Jan-2009 to Jun-2009
 . | Thomson PDR | Aug-2008 to Dec-2008
-. | P&O Ferries | June-2008 to Aug-2008
+. | **P&O Ferries** - Worked on backend Cape Clear Web service  | June-2008 to Aug-2008
 
 
 
