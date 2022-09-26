@@ -4,7 +4,7 @@ Category | Description | Period
 -------- | ----------- | ------
 Education | Azure Developer Associate | 2019
 . | MSc in Information technology from Cardiff Metropolitan University | 2014
-Work Experience (Technology) | * Java * .net  | .
+Work Experience (Technology) | * Item  | .
 Work Experience | Work at Virtusa as a Software Architect | 2008 to Present
 . | BBI- Bloomin Brands | Jul-2022 to Present
 . | MRI Public & Affordable Housing | Jan-2021 to Jul-2022
