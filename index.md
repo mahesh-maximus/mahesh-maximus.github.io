@@ -9,7 +9,7 @@
 ## Inspirations and Motivations
 * [**It's actually me** #kosalanuwan](https://github.com/kosalanuwan) Shows what it is possible with GitHub account.
 * [**Jon Gjengset** #jonhoo](https://github.com/jonhoo) Inspired by skill shows in [live coding](https://www.youtube.com/c/JonGjengset).
-* [**Steven Rostedt** #rostedt](https://github.com/rostedt) Inspired by the talk [Arguing with Linus Torvalds](https://www.youtube.com/watch?v=0pHImHVrI2I) and he as done on ftrace.
+* [**Steven Rostedt** #rostedt](https://github.com/rostedt) Inspired by the talk [Arguing with Linus Torvalds](https://www.youtube.com/watch?v=0pHImHVrI2I) and work he has done on ftrace.
 
 ## Things keeps me in Software Engineering
 * [GCC Front-End For Rust](https://rust-gcc.github.io/)
