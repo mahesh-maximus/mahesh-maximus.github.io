@@ -1,4 +1,4 @@
-# MAHESH MAXIMUS
+# I’M MAHESH AND YOU’RE READING ABOUT ME
 
 ## Loves ❤️ software engineering, avid learner, enthusiast Programmer and curious of Internals 🔧
 
