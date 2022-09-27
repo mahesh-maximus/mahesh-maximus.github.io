@@ -17,6 +17,7 @@
 * [mathiasbynens](https://mathiasbynens.be/)
 * [zachleat](https://zachleat.com/)
 * [kees](https://outflux.net/blog/)
+* [krallin](http://curiousthing.org/)
 
 ## Things keeps me in Software Engineering
 * [GCC Front-End For Rust](https://rust-gcc.github.io/)
