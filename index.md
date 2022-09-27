@@ -1,4 +1,4 @@
-# Index of MAHESH MAXIMUS
+# Home
 
 1. [About Me ...](https://mahesh-maximus.github.io/mahesh/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/mahesh/blog-posts/index.html) 
