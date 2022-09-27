@@ -13,7 +13,7 @@
 
 ## Blogs I follow
 [@kosalanuwan](https://kosalanuwan.github.io/)
-[jonhoo](https://thesquareplanet.com)
+[jonhoo](https://thesquareplanet.com/)
 [mathiasbynens](https://mathiasbynens.be/)
 [zachleat](https://zachleat.com/)
 [kees](https://outflux.net/blog/)
