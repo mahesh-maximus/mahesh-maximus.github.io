@@ -1,9 +1,9 @@
 # Home
 
 1. [About Me ...](https://mahesh-maximus.github.io/about/about.html)
-2. [Blog](https://mahesh-maximus.github.io/mahesh-maximus/blog-posts/index.html) 
-3. [Resume](https://mahesh-maximus.github.io/mahesh-maximus/resume/resume.html)
-4. [Publications](https://mahesh-maximus.github.io/mahesh-maximus/publications/index.html) NOT by me!, but so near and dear to my heart ❤️
+2. [Blog](https://mahesh-maximus.github.io/blog-posts/index.html) 
+3. [Resume](https://mahesh-maximus.github.io/resume/resume.html)
+4. [Publications](https://mahesh-maximus.github.io/publications/index.html) NOT by me!, but so near and dear to my heart ❤️
 5. [Life other than Gadgets]()
 
 ## Inspirations and Motivations
