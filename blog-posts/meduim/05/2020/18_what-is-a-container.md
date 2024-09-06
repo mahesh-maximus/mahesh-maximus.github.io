@@ -4,3 +4,13 @@ Containers use these technologies to create lightweight images that act as a sta
 
 This decoupling of application packaging mechanism from the environment on which it runs is a powerful concept that provides a clear separation of concerns between engineering teams. This allows developers to focus on building the core business capabilities into their application code and managing their own dependencies, while operators can streamline the continuous integration, promotion, and deployment of said applications without having to worry about their configuration.
 
+At the core of container technology are three key concepts:
+
+cgroups
+
+Namespaces
+
+Union filesystems
+
+From-Getting Started with Kubernetes – Third Edition
+https://www.oreilly.com/library/view/getting-started-with/9781788994729/7a157169-0cb7-4cf6-ab3b-7fec08693055.xhtml
