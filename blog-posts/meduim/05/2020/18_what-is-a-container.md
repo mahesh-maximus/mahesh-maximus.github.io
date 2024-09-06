@@ -10,3 +10,6 @@ At the core of container technology are three key concepts:
 * cgroups
 * Namespaces
 * Union filesystems
+
+
+[Getting Started with Kubernetes - Third Edition](https://www.oreilly.com/library/view/getting-started-with/9781788994729/7a157169-0cb7-4cf6-ab3b-7fec08693055.xhtml)
