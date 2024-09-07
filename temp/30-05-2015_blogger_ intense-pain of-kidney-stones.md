@@ -1,4 +1,4 @@
-# Intense Pain of Kidney Stones
+# Intense Pain of Kidney Stones 
 I have experienced it, it's the worse pain you can get. You cannot run away from the pain. It's like getting stabbed with a screw-driver (with studded nails) to your side of the stomach and turning it very slowly.
 
 Laterally I can feel every little movement of stone.  it's like something sharp is ripping through my body very slowly. The pain is caused by the razor sharp-edges of the stone.
