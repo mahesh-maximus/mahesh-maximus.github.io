@@ -6,8 +6,6 @@
 4. [Publications](https://mahesh-maximus.github.io/publications/index.html) NOT by me!, but so near and dear to my heart ❤️
 5. [Life other than Gadgets]()
 
-1. [Test JS](https://mahesh-maximus.github.io/test-js/index.html)
-
 ## Inspirations and Motivations
 * [**It's actually me** #kosalanuwan](https://github.com/kosalanuwan) Showed me, what it is possible with a GitHub account and importance of open source.
 * [**Jon Gjengset** #jonhoo](https://github.com/jonhoo) Inspired by skills, shows in [live coding](https://www.youtube.com/c/JonGjengset) and the unbelievable talent.
@@ -25,3 +23,6 @@
 * [GCC Front-End For Rust](https://rust-gcc.github.io/)
 * [Rust for Linux](https://github.com/Rust-for-Linux/linux)
 * [Linus Torvalds: Rust may make it into the next Linux kernel after all](https://www.zdnet.com/article/linus-torvalds-rust-may-make-it-into-the-next-linux-kernel-after-all/)
+
+#JS Projects
+1. [Test JS](https://mahesh-maximus.github.io/test-js/index.html)
