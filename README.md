@@ -1,4 +1,4 @@
-# 🚧 why are you not on [my web site](https://mahesh-maximus.github.io//mahesh-maximus/) 🚧
+# 🚧 why are you not on [my web site](https://mahesh-maximus.github.io) 🚧
 
 <!--
 [mahesh - maximus page](https://mahesh-maximus.github.io/mahesh/)
