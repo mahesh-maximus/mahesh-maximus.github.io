@@ -27,4 +27,6 @@
 ## JS Projects
 1. [Test JS](https://mahesh-maximus.github.io/test-js/index.html)
 
-## My Views
+## My Views About ♾️🛟🌏
+1. [Life](https://mahesh-maximus.github.io/my-views/life.md)
+2. [Software Engineering ](https://mahesh-maximus.github.io/my-views/software-engineering.md)
