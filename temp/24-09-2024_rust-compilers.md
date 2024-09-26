@@ -29,7 +29,7 @@ The Rust Programming Language is gaining reach inside the embedded community and
 * Drive adoption of Rust through backporting
 * Backend support for more systems
 
-**Codebase: ** https://github.com/Rust-GCC/gccrs
+**Codebase:** https://github.com/Rust-GCC/gccrs
 
 ## What is rustc codegen_gcc (A GCC codegen for the Rust compiler)
 * ﻿﻿rustc is based on [LLVM](https://github.com/llvm/llvm-project).
