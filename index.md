@@ -1,4 +1,4 @@
-# Maximus
+# MAXIMUS
 Even though there are things in this site which resembles this as a blog, but my intention is to use the as a note book for myself😎, so most of the may not be perfectly formatted and documented. 
 
 1. [About Me ...](https://mahesh-maximus.github.io/about/about.html)
