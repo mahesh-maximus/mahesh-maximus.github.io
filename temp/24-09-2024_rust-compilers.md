@@ -35,7 +35,7 @@ The Rust Programming Language is gaining reach inside the embedded community and
 * ﻿﻿rustc is based on [LLVM](https://github.com/llvm/llvm-project).
 * rustc provides an API for codegen.
 * rustc can load a codegen dynamic library.
-* [libgccjit](https://gcc.gnu.org/onlinedocs/jit/)can be plugged to rustc via this mechanism.
+* [libgccjit](https://gcc.gnu.org/onlinedocs/jit/) can be plugged to rustc via this mechanism.
 * Merged into the Rust repository.
 
 **Codebase:** https://github.com/rust-lang/rustc_codegen_gcc
