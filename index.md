@@ -26,6 +26,7 @@ Even though there are things in this site which resembles this as a blog, but my
 * [Rust for Linux](https://github.com/Rust-for-Linux/linux)
 * [Linus Torvalds: Rust may make it into the next Linux kernel after all](https://www.zdnet.com/article/linus-torvalds-rust-may-make-it-into-the-next-linux-kernel-after-all/)
 * [The Servo Parallel Browser Engine Project](https://github.com/servo/servo)
+* [JS-Interpreter](https://github.com/NeilFraser/JS-Interpreter$
 
 ## JS Projects
 1. [Test JS](https://mahesh-maximus.github.io/test-js/index.html)
