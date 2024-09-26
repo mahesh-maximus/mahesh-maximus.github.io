@@ -1,4 +1,4 @@
-# GCC Frontend vs GCC codegen for the Rust Compiler 
+# GCC Frontend vs GCC codegen for the  [Rust](https://github.com/rust-lang/rust) Compiler 
 
 The initial versions of Linux operating system was developed in 1991 by Linus Torvalds and it was very popular only among developer community and in order to Linux to grow beyond the world of the computer programmer, it needed a use, an application that made it a must have technology. That threshold was crossed with the development of program that made complex websites possible. That program is Apache web server and it was developed in 1993.
 
@@ -29,7 +29,7 @@ The Rust Programming Language is gaining reach inside the embedded community and
 * Drive adoption of Rust through backporting
 * Backend support for more systems
 
-**Codebase:** https://github.com/Rust-GCC/gccrs
+**Codebase:**  https://github.com/Rust-GCC/gccrs
 
 ## What is rustc codegen_gcc (A GCC codegen for the Rust compiler)
 * ﻿﻿rustc is based on [LLVM](https://github.com/llvm/llvm-project).
@@ -41,9 +41,9 @@ The Rust Programming Language is gaining reach inside the embedded community and
 **Codebase:** https://github.com/rust-lang/rustc_codegen_gcc
 
 ## Engineers works in these projects
-* [Philip Herron](https://github.com/philberty)
-* [Arthur Cohen](https://github.com/CohenArthur)
-* [Antoni Boucher](https://github.com/antoyo)
+* [Philip Herron](https://github.com/philberty) (Rust GCC)
+* [Arthur Cohen](https://github.com/CohenArthur) (Rust GCC)
+* [Antoni Boucher](https://github.com/antoyo) (Rust GCC code gen)
 
 ## References: I have used to write this article.
 [Adding a Rust compiler front end to GCC Philip Herron & Arthur Cohen](https://youtu.be/R8Pr21nlhig?si=E9_Jit_g6E1g3J9U "https://youtu.be/R8Pr21nlhig?si=E9_Jit_g6E1g3J9U")<!-- {"preview":"true"} -->
