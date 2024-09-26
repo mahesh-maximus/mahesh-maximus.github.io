@@ -19,6 +19,7 @@ Even though there are things in this site which resembles this as a blog, but my
 * [zachleat](https://zachleat.com/)
 * [kees](https://outflux.net/blog/)
 * [krallin](http://curiousthing.org/)
+* [jyn](https://jyn.dev/)
 
 ## Things keeps me in Software Engineering
 * [GCC Front-End For Rust](https://rust-gcc.github.io/)
