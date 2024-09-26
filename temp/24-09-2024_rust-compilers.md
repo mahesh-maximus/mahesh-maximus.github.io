@@ -4,7 +4,7 @@ The initial versions of Linux operating system was developed in 1991 by Linus To
 
 The same story applies to Rust at the moment,. As Linux, Rust is at the moment very popular among programmers but lacks business use and reach.
 
-From the language features perspective everything looks perfect, but still expansions can be done in targets for the stayrustc compiler provides (The standard rustc compiler uses LLVM as the compiler backend). So there are two projects Rust GCC and rustc_codegen_gcc (GCC codegen). Below are some of more areas why do we need these. 
+From the language features perspective everything looks perfect, but still expansions can be done in targets for the stayrustc compiler provides (The standard rustc compiler uses [LLVM](https://github.com/llvm/llvm-project) as the compiler backend). So there are two projects Rust GCC and rustc_codegen_gcc (GCC codegen). Below are some of more areas why do we need these. 
 * ﻿﻿Rust is becoming more and more popular.
 * ﻿﻿Support more architectures.
 * ﻿﻿Rust for Linux
@@ -29,13 +29,16 @@ The Rust Programming Language is gaining reach inside the embedded community and
 * Drive adoption of Rust through backporting
 * Backend support for more systems
 
+**Codebase: ** https://github.com/Rust-GCC/gccrs
+
 ## What is rustc codegen_gcc (A GCC codegen for the Rust compiler)
-* ﻿﻿rustc is based on LLVM.
+* ﻿﻿rustc is based on [LLVM](https://github.com/llvm/llvm-project).
 * rustc provides an API for codegen.
 * rustc can load a codegen dynamic library.
-* libgccjit can be plugged to rustc via this mechanism.
+* [libgccjit](https://gcc.gnu.org/onlinedocs/jit/)can be plugged to rustc via this mechanism.
 * Merged into the Rust repository.
 
+**Codebase:** https://github.com/rust-lang/rustc_codegen_gcc
 
 ## Engineers works in these projects
 * [Philip Herron](https://github.com/philberty)
