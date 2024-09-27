@@ -1,5 +1,5 @@
 # MAXIMUS
-Even though there are things in this site which resembles this as a blog, but my intention is to use the as a note book for myself😎, so most of the may not be perfectly formatted and documented. 
+Even though there are things in this site which resembles a blog, but my intention is to use this as a note book for myself😎, so most of the may not be perfectly formatted and well documented. 
 
 1. [About Me ...](https://mahesh-maximus.github.io/about/about.html)
 2. [Blog](https://mahesh-maximus.github.io/blog-posts/index.html) 
