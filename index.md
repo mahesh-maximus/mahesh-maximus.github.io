@@ -32,5 +32,6 @@ Even though there are things in this site which resembles this as a blog, but my
 1. [Test JS](https://mahesh-maximus.github.io/test-js/index.html)
 
 ## My Views ♾️ 🛟 🌏
-1. [Life](https://mahesh-maximus.github.io/my-views/life.md)
-2. [Software Engineering ](https://mahesh-maximus.github.io/my-views/software-engineering.md)
+1. [End Game](https://mahesh-maximus.github.io/end-game/)
+2. [Life](https://mahesh-maximus.github.io/my-views/life.md)
+3. [Software Engineering ](https://mahesh-maximus.github.io/my-views/software-engineering.md)
