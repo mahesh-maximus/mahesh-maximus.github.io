@@ -1,5 +1,8 @@
 # 🚧 why are you not on [my web site](https://mahesh-maximus.github.io) 🚧
 
+[End Game](https://mahesh-maximus.github.io/end-game/)
+
+
 <!--
 [mahesh - maximus page](https://mahesh-maximus.github.io/mahesh/)
 
