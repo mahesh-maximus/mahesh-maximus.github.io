@@ -13,7 +13,7 @@ Even though there are things in this site which resembles a blog, but my intenti
 * [**Steven Rostedt** #rostedt](https://github.com/rostedt) Inspired by the talk [Arguing with Linus Torvalds](https://www.youtube.com/watch?v=0pHImHVrI2I) and work he has done on linux kernel, especially ftrace.
 
 ## Blogs I follow
-* [@kosalanuwan](https://kosalanuwan.github.io/)
+* [@kosalanuwan](https://kosperera.github.io)
 * [jonhoo](https://thesquareplanet.com/)
 * [mathiasbynens](https://mathiasbynens.be/)
 * [zachleat](https://zachleat.com/)
