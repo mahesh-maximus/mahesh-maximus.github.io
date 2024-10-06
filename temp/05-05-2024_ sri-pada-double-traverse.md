@@ -16,8 +16,12 @@ Text here
 
 
 Text here
-
-
+![](https://mahesh-maximus.github.io/img/15237796378_elevation.png)
+Text here
+![](https://mahesh-maximus.github.io/img/15237796378_heart-rate.png)
+Text here
+![](https://mahesh-maximus.github.io/img/15237796378_heart-map.png)
+Text here
 
 https://connect.garmin.com/modern/activity/15237796378
 
