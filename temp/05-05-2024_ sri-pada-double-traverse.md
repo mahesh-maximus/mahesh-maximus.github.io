@@ -12,6 +12,10 @@ Text here
 
 Text here
 
+![](https://mahesh-maximus.github.io/img/15237796378_heart-rate-zones.png)
+
+Text here
+
 
 
 https://connect.garmin.com/modern/activity/15237796378
