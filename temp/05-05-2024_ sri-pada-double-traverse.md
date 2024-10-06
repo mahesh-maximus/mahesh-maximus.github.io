@@ -12,7 +12,7 @@ Text here
 
 Text here
 
-![](https://mahesh-maximus.github.io/img/IMG_2039.jpeg)
+![](https://mahesh-maximus.github.io/img/15237796378_heart-rate-zones.png)
 
 
 Text here
