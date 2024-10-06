@@ -20,7 +20,7 @@ Text here
 Text here
 ![](https://mahesh-maximus.github.io/img/15237796378_heart-rate.png)
 Text here
-![](https://mahesh-maximus.github.io/img/15237796378_heart-map.png)
+![](https://mahesh-maximus.github.io/img/15237796378_map.png)
 Text here
 
 https://connect.garmin.com/modern/activity/15237796378
