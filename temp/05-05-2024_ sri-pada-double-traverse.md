@@ -1,9 +1,14 @@
 # Sri Pada Double Traverse
 
-Prior to year 2024, I have been to Sri Pada  4 tes, as I remember I went to Sri Pada around year 2003-2005 for the fist time.
+As I remember, I have been to Sri Pada  4 times , prior to the year 2024. And I went to Sri Pada  for the first time around year 2002-2004.
 
+During my previous hikes I have **traversed** the peak from east to west few times and west to east, but **Double Traverse** means:
 
-[https://connect.garmin.com/modern/activity/4598696036](https://connect.garmin.com/modern/activity/4598696036)
+East to West followed by West to East or vice versa. That is from:
+
+**Hatton, Nallathanni to Rathnapura, Palabaddala and Rathnapura, Palabaddala to Hatton, Nallathanni**
+
+ [https://connect.garmin.com/modern/activity/4598696036](https://connect.garmin.com/modern/activity/4598696036)
 
 [https://connect.garmin.com/modern/activity/4598701990](https://connect.garmin.com/modern/activity/4598701990)
 
@@ -55,3 +60,22 @@ Text here
 | February 27, 2024 @ 3:09 AM | [Ascend](https://connect.garmin.com/modern/activity/14160309676), [Decent](https://connect.garmin.com/modern/activity/14160953827) |
 | September 17, 2022 @12:36 PM | [Ascend](https://connect.garmin.com/modern/activity/9625059056), [Ascend](https://connect.garmin.com/modern/activity/9625061459), [Descend](https://connect.garmin.com/modern/activity/9629866992), [Descend](https://connect.garmin.com/modern/activity/9629892139) |
 | February 27, 2020 @ 7:40 PM | [Ascend](https://connect.garmin.com/modern/activity/4598696036), [Decent](https://connect.garmin.com/modern/activity/4598701990) |
+| 2002-2004 | N/A |
+
+[https://www.localguidesconnect.com/t5/General-Discussion/Off-Season-Sri-Padaya-Adam-s-Peak-️/td-p/1996856/page/2](https://www.localguidesconnect.com/t5/General-Discussion/Off-Season-Sri-Padaya-Adam-s-Peak-%EF%B8%8F/td-p/1996856/page/2)
+
+1. White Hatton, Nallathanni Road
+
+2. Red - Rathnapura, Palabaddala Road
+
+3. Orange - Kuruvita, Eraththa Road
+
+4. Yellow -Daraniyagala, Udamaliboda Road
+
+5. Light purple - Rajamale, Sadagalathanna Road
+
+6. Light Blue - Dehankanda, Mukkuwaththa Road
+
+7. Blue - Baththulu oya, Paradise Road
+
+8. Pink - Baththulu oya, Waterfall Road
