@@ -2,15 +2,15 @@
 
 As I remember, I have been to Sri Pada  4 times , prior to the year 2024. And I went to Sri Pada  for the first time around year 2002-2004.
 
-During my previous hikes I have **traversed** the peak from east to west few times and west to east, but **Double Traverse** means:
+During my previous hikes I have **traversed** the peak from east to west, few times and west to east, but not double traverse. **Double Traverse** means:
 
 East to West followed by West to East or vice versa. That is from:
 
 **Hatton, Nallathanni to Rathnapura, Palabaddala and Rathnapura, Palabaddala to Hatton, Nallathanni**
 
- [https://connect.garmin.com/modern/activity/4598696036](https://connect.garmin.com/modern/activity/4598696036)
+## My Fitness
 
-[https://connect.garmin.com/modern/activity/4598701990](https://connect.garmin.com/modern/activity/4598701990)
+I was at my peak fitness condition. During this time preriod I was able to break both [5K]([https://connect.garmin.com/modern/activity/15915571229](https://connect.garmin.com/modern/activity/15915571229)) and [10K]([https://connect.garmin.com/modern/activity/15949219192)](https://connect.garmin.com/modern/activity/15949219192)
 
 | Laps | Time | Cumulative Time | Distance | Avg Pace | Avg HR | Max HR | Ascent | Total Descent | Avg Cadence | Calories | Best Pace | Max Cadence | Moving Time | Avg Moving **Pace** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Text here
 
 Text here
 
-## Previous Hikes
+## Previous Hikes till 2025
 
 | Date | Data |
 | --- | --- |
