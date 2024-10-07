@@ -51,5 +51,5 @@ Text here
 | Date | Data |
 | --- | --- |
 | February 27, 2020 @ 7:40 PM | [Ascend](https://connect.garmin.com/modern/activity/4598696036), [Decent](https://connect.garmin.com/modern/activity/4598701990) |
-| September 17, 2022 @12:36 PM | [Ascend](https://connect.garmin.com/modern/activity/9625059056), [Descend](https://connect.garmin.com/modern/activity/9625061459), [Descend](https://connect.garmin.com/modern/activity/9629866992), [Descend](https://connect.garmin.com/modern/activity/9629892139) |
+| September 17, 2022 @12:36 PM | [Ascend](https://connect.garmin.com/modern/activity/9625059056), [Ascend](https://connect.garmin.com/modern/activity/9625061459), [Descend](https://connect.garmin.com/modern/activity/9629866992), [Descend](https://connect.garmin.com/modern/activity/9629892139) |
 | Test1 | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
