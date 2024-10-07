@@ -50,7 +50,6 @@ Text here
 
 | Date | Data |
 | --- | --- |
-| February 27, 2020 @ 7:40 PM | [Ascend](https://mahesh-maximus.github.io/resume/resume.html)
-[Ascend](https://mahesh-maximus.github.io/resume/resume.html)
-[Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
-| Test | Test |
+| February 27, 2020 @ 7:40 PM | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
+| Test | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
+| Test1 | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
