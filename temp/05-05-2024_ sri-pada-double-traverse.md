@@ -50,6 +50,6 @@ Text here
 
 | Date | Data |
 | --- | --- |
-| February 27, 2020 @ 7:40 PM | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
+| February 27, 2020 @ 7:40 PM | [Ascend](https://connect.garmin.com/modern/activity/4598696036) |
 | Test | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
 | Test1 | [Ascend](https://mahesh-maximus.github.io/resume/resume.html) |
