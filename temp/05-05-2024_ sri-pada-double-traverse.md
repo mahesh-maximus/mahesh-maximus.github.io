@@ -10,7 +10,7 @@ East to West followed by West to East or vice versa. That is from:
 
 ## My Fitness
 
-I was at my peak fitness condition. During this time preriod I was able to break both [5K]([https://connect.garmin.com/modern/activity/15915571229](https://connect.garmin.com/modern/activity/15915571229)) and [10K]([https://connect.garmin.com/modern/activity/15949219192)](https://connect.garmin.com/modern/activity/15949219192)
+I was at my peak fitness condition. During this time preriod I was able to break both [5K](https://connect.garmin.com/modern/activity/15915571229) and [10](https://connect.garmin.com/modern/activity/15949219192).
 
 | Laps | Time | Cumulative Time | Distance | Avg Pace | Avg HR | Max HR | Ascent | Total Descent | Avg Cadence | Calories | Best Pace | Max Cadence | Moving Time | Avg Moving **Pace** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
