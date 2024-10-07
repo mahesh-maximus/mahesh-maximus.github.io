@@ -49,7 +49,7 @@ Text here
 | Date | Data |
 | --- | --- |
 | April 20, 2024 @ 10:07 AM | [Ascend - Descend](https://connect.garmin.com/modern/activity/14989754230) |
-| March 30, 2024 @ 10:22 AM | [https://connect.garmin.com/modern/activity/14653693018](https://connect.garmin.com/modern/activity/14653693018) |
+| March 30, 2024 @ 10:22 AM | [Ascend - Descend](https://connect.garmin.com/modern/activity/14653693018) |
 | March 22, 2024 @ 10:09 AM
 
  | [Ascend - Descend](https://connect.garmin.com/modern/activity/14527994675) |
