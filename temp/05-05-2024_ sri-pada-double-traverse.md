@@ -2,7 +2,6 @@
 
 Prior to year 2024, I have been to Sri Pada  4 tes, as I remember I went to Sri Pada around year 2003-2005 for the fist time.
 
-# MOUNTAINEERING BY [MAHESH](https://connect.garmin.com/modern/profile/3d761bec-f129-4c0c-a68b-ee725532f8ef) ON FEBRUARY 27, 2020 @ 7:40 PM
 
 [https://connect.garmin.com/modern/activity/4598696036](https://connect.garmin.com/modern/activity/4598696036)
 
