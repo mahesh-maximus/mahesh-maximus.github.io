@@ -10,7 +10,18 @@ East to West followed by West to East or vice versa. That is from:
 
 ## My Fitness
 
-I was at my peak fitness condition. During this time preriod I was able to break both [5K](https://connect.garmin.com/modern/activity/15915571229) and [10K](https://connect.garmin.com/modern/activity/15949219192).
+I was at my peak fitness condition. And during  early part of 2024, I was able to break both [5K](https://connect.garmin.com/modern/activity/15915571229) and [10K](https://connect.garmin.com/modern/activity/15949219192) running personal records. 
+
+## Legs / Laps
+
+| Lap | Leg | Time | Dist |
+| --- | --- | --- | --- |
+| 1 | Nallathanni to Peak |  |  |
+| 2 | Peak to Palabaddala |  |  |
+| 3 | Palabaddala to Peak |  |  |
+| 4 | Peak to Nallathanni |  |  |
+
+F
 
 | Laps | Time | Cumulative Time | Distance | Avg Pace | Avg HR | Max HR | Ascent | Total Descent | Avg Cadence | Calories | Best Pace | Max Cadence | Moving Time | Avg Moving **Pace** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -65,17 +76,10 @@ Text here
 [https://www.localguidesconnect.com/t5/General-Discussion/Off-Season-Sri-Padaya-Adam-s-Peak-️/td-p/1996856/page/2](https://www.localguidesconnect.com/t5/General-Discussion/Off-Season-Sri-Padaya-Adam-s-Peak-%EF%B8%8F/td-p/1996856/page/2)
 
 1. White Hatton, Nallathanni Road
-
 2. Red - Rathnapura, Palabaddala Road
-
 3. Orange - Kuruvita, Eraththa Road
-
 4. Yellow -Daraniyagala, Udamaliboda Road
-
 5. Light purple - Rajamale, Sadagalathanna Road
-
 6. Light Blue - Dehankanda, Mukkuwaththa Road
-
 7. Blue - Baththulu oya, Paradise Road
-
 8. Pink - Baththulu oya, Waterfall Road
