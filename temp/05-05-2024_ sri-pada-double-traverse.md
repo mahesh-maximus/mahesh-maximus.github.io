@@ -14,12 +14,13 @@ I was at my peak fitness condition. And during  early part of 2024, I was able t
 
 ## Legs / Laps
 
-| Lap | Leg | Time | Dist |
+| Lap | Leg | Time | Distance (KM) |
 | --- | --- | --- | --- |
-| 1 | Nallathanni to Peak |  |  |
-| 2 | Peak to Palabaddala |  |  |
-| 3 | Palabaddala to Peak |  |  |
-| 4 | Peak to Nallathanni |  |  |
+| 1 | Nallathanni to Peak | 3:04:12 | 5.31 |
+| 2 | Peak to Palabaddala | 3:16:44 | 8.57 |
+| 3 | Palabaddala to Peak | 5:22:05 | 9.01 |
+| 4 | Peak to Nallathanni | 1:13:44 | 4.93 |
+| **Summary** |  | **12:56:45** | **27.82** |
 
 F
 
