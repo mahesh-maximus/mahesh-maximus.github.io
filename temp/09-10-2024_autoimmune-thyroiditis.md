@@ -36,13 +36,13 @@ Hypo Thyroid condition.
 
 This is the more common disease. In this case also you make antibodies to your thyroid gland but not as dramatic. Thyroid gland is not making enough thyroid hormone. Symptoms are very subtle so most of the time this is not discovered based on symptoms. Most of the time discovered during lab tests some people used to do on yearly basis. 
 
-## Symptoms
+### Symptoms
 
 - Dry skin
 - Constipation
 - Fatigue
 - Feel cold
 
-## Medications
+### Medications
 
 Supplements Thyroid hormone replacement.
