@@ -1,1 +1,48 @@
-a
+# Autoimmune Thyroiditis
+
+What’s happening here is your body is making antibodies to your thyroid gland. More common among women. Over time these antibodies burn the gland out, so the gland will not function anymore.
+
+## Two Main Forms of Autoimmune Thyroiditis
+
+- Graves Disease Thyroiditis (Thyroid Storm)
+- Hashimoto’s Thyroiditis
+
+## Graves Disease Thyroiditis (Thyroid Storm)
+
+Hyper thyroid condition.
+
+This very aggressive and very abrupt onset usually. Thyroid gland get huge and very beefy and starts making tons and tons of thyroid hormones. Some of the antibodies will also affect eyes and may be even your brain.
+
+### Symptoms
+
+- Heart rate is high
+- Blood pressure is high
+- Very nervous and anxious
+- Eyes get bulgy
+
+### Disease Life Cycle
+
+You from having too much thyroid to not having anymore which is a better condition.
+
+### Medications
+
+There are medications ?? and if the doesn’t work then use radioactive iodine to kill the gland off. 
+
+Supplement thyroid hormone 
+
+## Hashimoto’s Thyroiditis
+
+Hypo Thyroid condition.
+
+This is the more common disease. In this case also you make antibodies to your thyroid gland but not as dramatic. Thyroid gland is not making enough thyroid hormone. Symptoms are very subtle so most of the time this is not discovered based on symptoms. Most of the time discovered during lab tests some people used to do on yearly basis. 
+
+## Symptoms
+
+- Dry skin
+- Constipation
+- Fatigue
+- Feel cold
+
+## Medications
+
+Supplements Thyroid hormone replacement.
