@@ -12,6 +12,40 @@ It is located at the bottom of the neck area near the collarbones or clavicles a
 - Thyroid gland produces T3 and T4. Majority of the hormones produced by the gland is T4. Often times T3 is also converted to T4, so that it can actually act on the specific organ.
 - TSH (Thyroid Stimulating Hormone). stimulates the thyroid gland. There is feedback mechanism where these particular two hormones act back on the pituitary gland kind of like inhibition to produce well regulated (not producing to much or too little) thyroid hormone levels
 
+## Types of Thyroid Diseases
+
+- Hypothyroidism (Hypo Thyroid condition - Under active thyroid gland)
+- Hyperthyroidism (Hyper thyroid condition. Over active thyroid gland)
+
+## Hypothyroidism
+
+### Causes
+
+- Autoimmune - body doesn’t recognize itself (Hashimoto’s )
+- Iodine deficiency
+- Surgery of the thyroid gland
+- Thyroiditis - inflammation of the thyroid gland
+- Medications
+- Damage to the pituitary gland
+
+ 
+
+### Symptoms
+
+- Neck swelling - Goiter
+- Weight gain
+- Constipation
+- Cold intolerance
+- Fatigue
+
+### Diagnosis
+
+- Physical exam (Neck Goiter)
+- Lab tests
+    - TSH
+    - T4
+    - TPO Antibodies
+
 ## Two Main Forms of Autoimmune Thyroiditis
 
 - Graves Disease Thyroiditis (Thyroid Storm)
