@@ -4,7 +4,7 @@ What’s happening here is your body is making antibodies to your thyroid gland.
 
 ## The Thyroid Gland
 
-It is located at the bottom of the neck area near the collarbones or clavicles are, and sits in-front of the windpipe also  known as trachea. The thyroid gland is similar to a butterfly shape and it has a right side and s left side and has a small connector piece that’s known as isthmus.
+Thyroid gland regulates metabolism. And It is located at the bottom of the neck area near the collarbones or clavicles are, and sits in-front of the windpipe also  known as trachea. The thyroid gland is similar to a butterfly shape and it has a right side and s left side and has a small connector piece that’s known as isthmus. 
 
 ### Physiology of Thyroid Gland
 
@@ -157,6 +157,8 @@ Endocrinologist
 
 **TSI** - (**T**hyroid Stimulating Immunoglobulin) Test to recognise Graves disease
 
+**Note: ANA** - test
+
 ### Summery
 
 Graves disease where your body actually has antibodies that stimulate the thyroid gland into producing more thyroid hormones as opposed to Hashimoto’s the antibodies just prevented the actual thyroid hormone
@@ -165,4 +167,4 @@ Graves disease where your body actually has antibodies that stimulate the thyroi
 
 1. [Thyroid Antibodie](https://medlineplus.gov/lab-tests/thyroid-antibodies/)
 2. [Hashimoto's vs. Graves' Disease (11/25/2012 QOTD)](https://youtu.be/NrPPDKa_Ma0?si=pxhbg7K2fN8DkZ_g)
-3. Gg
+3. [Stanford Doctor Kaniksha Desai on Thyroid Diseases](https://youtu.be/X3YttftIoHI?si=pnSBBXeby2KRRszw)
