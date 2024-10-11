@@ -161,4 +161,4 @@ Graves disease where your body actually has antibodies that stimulate the thyroi
 
 ## References
 
-[https://medlineplus.gov/lab-tests/thyroid-antibodies/](https://medlineplus.gov/lab-tests/thyroid-antibodies/)
+[Thyroid Antibodie](https://medlineplus.gov/lab-tests/thyroid-antibodies/)
