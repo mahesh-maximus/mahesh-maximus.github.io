@@ -151,13 +151,19 @@ Endocrinologist
 | Hashimoto’s | TSH **↑** | T4 **↓** | T3 **↓** | TPO **↑** |
 | Graves | TSH **↓** | T4 **↑** | T3 **↑** | TSI **↑** |
 
+**Legend** 
+
+**↑ = Elevated**
+
+**↓ = Depressed** 
+
 **TSH**, **T4**, and **T3** to recognise whether you have hyperthyroidism or hypothyroidism. And TPO and TSI to recognise the exact disease which fall under either hypothyroidism or hyperthyroidism.
 
 **TPO** - (Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody) Test recognise Hashimoto’s disease.
 
 **TSI** - (**T**hyroid Stimulating Immunoglobulin) Test to recognise Graves disease
 
-**Note: ANA** - test
+**Note: ANA** - **ANA (Antinuclear Antibody)**
 
 ### Summery
 
