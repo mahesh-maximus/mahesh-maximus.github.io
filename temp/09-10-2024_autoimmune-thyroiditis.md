@@ -142,7 +142,9 @@ Endocrinologist
 
 ## Hashimoto’s or Graves from Lab test point of view
 
-text
+**Hashimoto’s *-*** Antibody attaches and destroys the thyroid gland and T3 and T3 levels are going to decrease. Once the T3 and T4 is put into to blood stream and exert what we calls a negative effect to increase the T3 and T4. So the TSH is high.
+
+**Graves  -** Antibody attaches, but stimulates the thyroid gland and T3 and T4 levels are going to increase. Once the T3 and T4 is put into to blood stream and exert what we calls a negative effect to decrease the T3 and T4. So the TSH is low.
 
 | **Autoimmune disease** | **Lab Test** | **Lab Test** | **Lab Test** | **Lab Test** |
 | --- | --- | --- | --- | --- |
@@ -151,9 +153,9 @@ text
 
 **TSH**, **T4**, and **T3** to recognise whether you have hyperthyroidism or hypothyroidism. And TPO and TSI to recognise the exact disease which fall under either hypothyroidism or hyperthyroidism.
 
-**TPO** - (Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody) Test recognise Hashimoto’s disease. 
+**TPO** - (Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody) Test recognise Hashimoto’s disease.
 
-**TSI** - (**T**hyroid Stimulating Immunoglobulin) Test to recognise Graves disease 
+**TSI** - (**T**hyroid Stimulating Immunoglobulin) Test to recognise Graves disease
 
 ### Summery
 
@@ -161,4 +163,6 @@ Graves disease where your body actually has antibodies that stimulate the thyroi
 
 ## References
 
-[Thyroid Antibodie](https://medlineplus.gov/lab-tests/thyroid-antibodies/)
+1. [Thyroid Antibodie](https://medlineplus.gov/lab-tests/thyroid-antibodies/)
+2. [Hashimoto's vs. Graves' Disease (11/25/2012 QOTD)](https://youtu.be/NrPPDKa_Ma0?si=pxhbg7K2fN8DkZ_g)
+3. Gg
