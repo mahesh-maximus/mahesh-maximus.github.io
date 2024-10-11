@@ -144,9 +144,11 @@ Endocrinologist
 
 | **Autoimmune disease**  | **Lab Test** | **Lab Test** | **Lab Test** | **Lab Test** |
 | --- | --- | --- | --- | --- |
-| **Hashimoto’s**  | TSH **↑**  | T4 **↓** | T3 **↓** | TPO **↑**
+| Hashimoto’s | TSH **↑**  | T4 **↓** | T3 **↓** | TPO **↑**
  |
-| **Graves** | TSH **↓** | T4 **↑** | T3 **↑** | TSI **↑** |
+| Graves | TSH **↓** | T4 **↑** | T3 **↑** | TSI **↑** |
+
+Test
 
 TPO - Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody
 
