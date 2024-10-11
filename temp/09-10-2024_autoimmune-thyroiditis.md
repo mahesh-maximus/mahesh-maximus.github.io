@@ -74,7 +74,7 @@ It is located at the bottom of the neck area near the collarbones or clavicles a
 
 - Physically exam
     - Eye disease
-    - Neck swelling  goiter
+    - Neck swelling goiter
     - Reflexes, Tremors
 - Lab Tests
     - TSH
@@ -130,7 +130,7 @@ This is the more common disease. In this case also you make antibodies to your t
 
 ### Disease Life Cycle
 
-Gradually moves from having very little thyroid to not having anymore. Overtime these thyroid antibodies will burn the thyroid gland out. 
+Gradually moves from having very little thyroid to not having anymore. Overtime these thyroid antibodies will burn the thyroid gland out.
 
 ### Medications
 
@@ -141,21 +141,23 @@ Supplements Thyroid hormone replacement.
 Endocrinologist
 
 ## Hashimoto’s or Graves from Lab test point of view
+
 text
 
-| **Autoimmune disease**  | **Lab Test** | **Lab Test** | **Lab Test** | **Lab Test** |
+| **Autoimmune disease** | **Lab Test** | **Lab Test** | **Lab Test** | **Lab Test** |
 | --- | --- | --- | --- | --- |
-| Hashimoto’s | TSH **↑**  | T4 **↓** | T3 **↓** | TPO **↑** |
+| Hashimoto’s | TSH **↑** | T4 **↓** | T3 **↓** | TPO **↑** |
 | Graves | TSH **↓** | T4 **↑** | T3 **↑** | TSI **↑** |
 
+**TSH**, **T4**, and **T3** to recognise whether you have hyperthyroidism or hypothyroidism. And TPO and TSI to recognise the exact disease which fall under either hypothyroidism or hyperthyroidism.
 
-**TPO** - Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody
+**TPO** - (Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody) Test recognise Hashimoto’s disease. 
 
-**TSI** - **T**hyroid Stimulating Immunoglobulin
+**TSI** - (**T**hyroid Stimulating Immunoglobulin) Test to recognise Graves disease 
 
 ### Summery
 
-Graves disease where your body actually has antibodies that stimulate the thyroid gland into producing more thyroid hormones as opposed to Hashimoto’s the antibodies just prevented the actual thyroid hormone 
+Graves disease where your body actually has antibodies that stimulate the thyroid gland into producing more thyroid hormones as opposed to Hashimoto’s the antibodies just prevented the actual thyroid hormone
 
 ## References
 
