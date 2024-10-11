@@ -28,8 +28,6 @@ It is located at the bottom of the neck area near the collarbones or clavicles a
 - Medications
 - Damage to the pituitary gland
 
- 
-
 ### Symptoms
 
 - Neck swelling - Goiter
@@ -45,6 +43,51 @@ It is located at the bottom of the neck area near the collarbones or clavicles a
     - TSH
     - T4
     - TPO Antibodies
+
+### Treatment
+
+- Goal - normal TSH
+- Levothyroxine (14) mainstay of treatment
+    - Long acting, daily dosing
+- Liothyronine (T3)
+    - Twice day dosing - short half life less than a day
+
+## Hyperthyroidism
+
+### Causes
+
+- Autoimmune Grave’s Disease
+- Thyroid Nodules
+- Thyroiditis - Inflammation
+- Medications
+
+### Symptoms
+
+- Neck swelling - Goiter
+- Increased heart rate - Palpitations
+- Weight loss
+- Diarrhea
+- Tremors
+- Eye Disease
+
+### Diagnosis
+
+- Physically exam
+    - Eye disease
+    - Neck swelling  goiter
+    - Reflexes, Tremors
+- Lab Tests
+    - TSH
+    - T3 / T4
+    - TSI Antibodies
+
+### Treatment
+
+- Anti Thyroid drugs
+    - Methimazole
+    - PTU
+- Radioactive Iodine
+- Surgery
 
 ## Two Main Forms of Autoimmune Thyroiditis
 
@@ -97,4 +140,6 @@ Supplements Thyroid hormone replacement.
 
 Endocrinologist
 
-##
+### Summery
+
+Graves disease where your body actually has antibodies that stimulate the thyroid gland into producing more thyroid hormones as opposed to Hashimoto’s the antibodies just prevented the actual thyroid hormone
