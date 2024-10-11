@@ -140,6 +140,13 @@ Supplements Thyroid hormone replacement.
 
 Endocrinologist
 
+## Hashimoto’s or Graves from Lab test point of view
+
+| Autoimmune disease  | Lab Test | Lab Test | Lab Test | Lab Test |
+| --- | --- | --- | --- | --- |
+| Hashimoto’s  | TSH **↑**  | T4 **↓** | T3 **↓** | TPO **↑** |
+| Graves | TSH **↓** | T4 **↑** | T3 **↑** | TSI **↑** |
+
 ### Summery
 
 Graves disease where your body actually has antibodies that stimulate the thyroid gland into producing more thyroid hormones as opposed to Hashimoto’s the antibodies just prevented the actual thyroid hormone
