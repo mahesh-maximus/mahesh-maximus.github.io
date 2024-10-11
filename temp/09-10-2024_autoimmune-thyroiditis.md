@@ -142,9 +142,6 @@ Endocrinologist
 
 ## Hashimoto’s or Graves from Lab test point of view
 
-|  |
-| --- |
-
 | **Autoimmune disease**  | **Lab Test** | **Lab Test** | **Lab Test** | **Lab Test** |
 | --- | --- | --- | --- | --- |
 | Hashimoto’s | TSH **↑**  | T4 **↓** | T3 **↓** | TPO **↑** |
