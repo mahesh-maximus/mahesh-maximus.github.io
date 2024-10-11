@@ -141,15 +141,13 @@ Supplements Thyroid hormone replacement.
 Endocrinologist
 
 ## Hashimoto’s or Graves from Lab test point of view
+text
 
 | **Autoimmune disease**  | **Lab Test** | **Lab Test** | **Lab Test** | **Lab Test** |
 | --- | --- | --- | --- | --- |
 | Hashimoto’s | TSH **↑**  | T4 **↓** | T3 **↓** | TPO **↑** |
 | Graves | TSH **↓** | T4 **↑** | T3 **↑** | TSI **↑** |
 
-T
-
-Test
 
 **TPO** - Thyroid Microsomal Antibody, Thyroid Peroxidase Antibody
 
