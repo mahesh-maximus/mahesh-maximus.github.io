@@ -1,1 +1,0 @@
-instant talk at low rpm
