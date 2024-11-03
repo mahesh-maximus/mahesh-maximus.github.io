@@ -20,6 +20,7 @@ Even though there are things in this site which resembles a blog, but my intenti
 * [kees](https://outflux.net/blog/)
 * [krallin](http://curiousthing.org/)
 * [jyn](https://jyn.dev/)
+* [joel](http://www.joelfernandes.org)
 
 ## Things keeps me in Software Engineering
 * [GCC Front-End For Rust](https://rust-gcc.github.io/)
