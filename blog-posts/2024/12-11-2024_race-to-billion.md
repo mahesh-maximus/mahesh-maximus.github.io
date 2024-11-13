@@ -70,3 +70,11 @@ fun main() {
 ```
 
 ## Execution Times
+
+Test
+
+| Language  | Time in Seconds  |
+| --- | --- |
+| Rust | 3 |
+| Python | 15 |
+| Kotlin  | 58 |
