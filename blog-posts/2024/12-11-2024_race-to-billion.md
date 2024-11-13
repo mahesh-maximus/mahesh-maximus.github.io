@@ -27,7 +27,6 @@ fn main() {
 
     let mut i = 0;
     while i < 1000000000 {
-        
         i = i + 1;
     }
     
@@ -62,7 +61,6 @@ fun main() {
   val timeTaken = measureTime {
     var i = 0
     while (i < 1000000000) {
-
       i++
     } 
   }
@@ -70,3 +68,5 @@ fun main() {
   println("Time elapsed to count 1  Billion: " + timeTaken) 
 }
 ```
+
+## Execution Times
