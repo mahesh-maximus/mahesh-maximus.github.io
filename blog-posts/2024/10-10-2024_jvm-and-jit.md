@@ -10,4 +10,6 @@ https://developers.redhat.com/articles/2021/06/23/how-jit-compiler-boosts-java-p
 
 https://developers.redhat.com/blog/2015/04/07/jit-compilation-using-gcc-5-2#trying_it_out
 
+https://visualvm.github.io/
+
 
