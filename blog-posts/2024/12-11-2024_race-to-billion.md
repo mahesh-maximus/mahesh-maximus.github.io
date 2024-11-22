@@ -75,6 +75,6 @@ Test
 
 | Language  | Time in Seconds  |
 | --- | --- |
-| Rust | 3 |
-| Python | 15 |
-| Kotlin  | 58 |
+| Rust | 1.3 |
+| Python | 88.2 |
+| Kotlin  | 4.1 |
